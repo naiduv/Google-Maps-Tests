@@ -1,0 +1,3 @@
+Simple Map Example
+1. Get the Users location using navigator.geolocation.getcurrentposition
+2. Use it to show the current location from a height in the google map + a panormic view of the street view location.
